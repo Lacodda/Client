@@ -1,0 +1,1 @@
+# App for import data from Google Spreadsheet, written on Laravel PHP Framework
